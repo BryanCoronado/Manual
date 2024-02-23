@@ -16,6 +16,9 @@ Instalación combinada de Docker con GitLab, configurado con opciones de SSL y S
 - Linux | Valet
 - Instalación del Facturador
 
+## Colaboradores
+-Adribell Montes 
+https://github.com/AdriALV2005
 
 
 Si estas colaborando con nosotros usa los siguientes comandos:
