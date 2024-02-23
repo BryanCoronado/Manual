@@ -61,9 +61,9 @@ sidebar_position: 3
 
 
 
-### Enlaces de interés
+<!-- ### Enlaces de interés
 
 - [Actualización de SSL](actualizacion_ssl_link)
 - [Actualización mediante ejecución Script para instalaciones Docker](actualizacion_docker_link)
 - [Gestión de SSL independiente, no el que incorpora el Script](gestion_ssl_link)
-- [Guía GitLab para la instalación](guia_gitlab_link): Contiene el script usado en el presente manual, además posee los parámetros extras que pueden usarse en la ejecución del paso 6.
+- [Guía GitLab para la instalación](guia_gitlab_link): Contiene el script usado en el presente manual, además posee los parámetros extras que pueden usarse en la ejecución del paso 6. -->
