@@ -61,9 +61,9 @@ sidebar_position: 3
 
 
 
-<!-- ### Enlaces de interés
+### Enlaces de interés
 
-- [Actualización de SSL](actualizacion_ssl_link)
-- [Actualización mediante ejecución Script para instalaciones Docker](actualizacion_docker_link)
-- [Gestión de SSL independiente, no el que incorpora el Script](gestion_ssl_link)
-- [Guía GitLab para la instalación](guia_gitlab_link): Contiene el script usado en el presente manual, además posee los parámetros extras que pueden usarse en la ejecución del paso 6. -->
+- [Actualización de SSL](https://gitlab.com/b.mendoza/facturadorpro3/snippets/1955372)
+- [Actualización mediante ejecución Script para instalaciones Docker](https://gitlab.com/b.mendoza/facturadorpro3/-/wikis/Script-Update-Docker)
+- [Gestión de SSL independiente, no el que incorpora el Script](https://docs.google.com/document/d/1D87YJ9fq9yHiAauu6SGVugiC3m_i42DrFUt6VKYXuDI/edit?usp=sharing)
+- [Guía GitLab para la instalación](https://gitlab.com/b.mendoza/facturadorpro3/snippets/1971490): Contiene el script usado en el presente manual, además posee los parámetros extras que pueden usarse en la ejecución del paso 6.
