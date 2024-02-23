@@ -1,14 +1,21 @@
 .features {
   display: flex;
-  align-items: center;
-  padding: 2rem 0;
+  flex-wrap: wrap; /* Permite que los elementos se ajusten automáticamente en una nueva línea */
+  justify-content: center; /* Centra los elementos horizontalmente */
+  gap: 2rem; /* Espacio entre los elementos */
+  padding: 50px ; /* Relleno interno del contenedor */
   width: 100%;
+ 
 }
+
 
 .featureSvg {
   height: 200px;
   width: 200px;
 }
-footer{
-  background-color: #33007b  !important;
+
+.feature {
+  margin-bottom: 5rem; /* Ajusta el valor según lo necesites */
 }
+
+

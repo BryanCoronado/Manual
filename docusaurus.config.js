@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "AdriALV2005", // Usually your GitHub org/user name.
+  organizationName: "BryanCoronado", // Usually your GitHub org/user name.
   projectName: "Manual", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -72,12 +72,14 @@ const config = {
             label: "Manuales",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/BryanCoronado/Manual.git",
             label: "GitHub",
-            position: "right",
+            position: "left",
           },
         ],
       },
+
+      
       footer: {
         style: "dark",
         links: [
@@ -106,23 +108,7 @@ const config = {
               },
             ],
           },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
+         
           {
             title: "Colaboradores",
             items: [
@@ -135,6 +121,15 @@ const config = {
                 label: "Adribell Montes",
                 href: "https://github.com/AdriALV2005",
                 target: "_blank",
+              },
+            ],
+          },
+          {
+            title: "Redes Sociales",
+            items: [
+              {
+                label: "Portafolio B. Coronado",
+                href: "https://portafolio-minimalista.netlify.app/",
               },
             ],
           },
