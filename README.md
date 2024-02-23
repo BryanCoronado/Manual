@@ -17,7 +17,7 @@ Instalación combinada de Docker con GitLab, configurado con opciones de SSL y S
 - Instalación del Facturador
 
 ## Colaboradores
--Adribell Montes 
+- Adribell Montes 
 https://github.com/AdriALV2005
 
 
