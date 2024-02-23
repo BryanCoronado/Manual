@@ -21,9 +21,9 @@ Antes de utilizar el script, asegúrese de cumplir con los siguientes requisitos
 
 4. **Almacenamiento de Registros TXT en el Dominio:**
 
-Durante la ejecución del script, deberá almacenar en su dominio dos registros TXT con unos valores específicos que se mostrarán en pantalla. Estos registros son necesarios para la validación en directo del certificado SSL y no pueden tardar más de 2 minutos en validarse en su dominio. Asegúrese de agregar estos registros correctamente para garantizar una validación exitosa del certificado SSL.
+   Durante la ejecución del script, deberá almacenar en su dominio dos registros TXT con unos valores específicos que se mostrarán en pantalla. Estos registros son necesarios para la validación en directo del certificado SSL y no pueden tardar más de 2 minutos en validarse en su dominio. Asegúrese de agregar estos registros correctamente para garantizar una validación exitosa del certificado SSL.
 
 5. **Detener Servicios Instalados en la Instancia:**
 
-Si cuenta con servicios instalados en su instancia, como MySQL, Apache o Nginx, es importante detenerlos antes de ejecutar el script. Estos servicios ocupan los puertos que serán utilizados por el aplicativo y los contenedores de Docker que se configurarán. Detener estos servicios evitará conflictos de puerto y asegurará un despliegue correcto de la aplicación.
+   Si cuenta con servicios instalados en su instancia, como MySQL, Apache o Nginx, es importante detenerlos antes de ejecutar el script. Estos servicios ocupan los puertos que serán utilizados por el aplicativo y los contenedores de Docker que se configurarán. Detener estos servicios evitará conflictos de puerto y asegurará un despliegue correcto de la aplicación.
 

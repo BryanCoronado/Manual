@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 # Descripción
-### Objetivo:
+## Objetivo:
 El objetivo principal del script de instalación es simplificar y automatizar el proceso de configuración de un entorno Docker con GitLab en sistemas Linux, específicamente en instancias que utilicen Ubuntu 18 o versiones superiores.
 
 ### Características Destacadas:
@@ -12,7 +12,7 @@ El objetivo principal del script de instalación es simplificar y automatizar el
 - **Simplicidad de Uso:** El script está diseñado con una interfaz intuitiva que guía al usuario a través de las opciones disponibles, minimizando la probabilidad de errores durante la configuración.
 - **Diseño Orientado a la Productividad:** Su diseño se centra en simplificar el proceso de implementación y configuración del entorno de desarrollo, permitiendo que los equipos se enfoquen en la creación y colaboración en lugar de las complejidades de la configuración del servidor.
 
-### Beneficios Adicionales:
+## Beneficios Adicionales:
 Además de su capacidad para configurar un entorno Docker con GitLab de manera eficiente y segura, el script ofrece otros beneficios:
 - **Escalabilidad:** El entorno configurado puede escalar fácilmente para satisfacer las demandas cambiantes del proyecto.
 - **Mantenimiento Simplificado:** La automatización de tareas reduce la carga de trabajo de mantenimiento continuo.

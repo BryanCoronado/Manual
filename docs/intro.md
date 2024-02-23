@@ -1,47 +1,21 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# dcdcdcdcd aqui modifica
+# Introducción
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### Instalación Docker + GitLab + Opción SSL + Opción SSH
 
-## Getting Started
+En este manual, exploraremos cómo crear un script de instalación para configurar un entorno Docker con GitLab, incorporando opciones para habilitar SSL y SSH. Estas opciones adicionales son cruciales para garantizar la seguridad y la integridad de las comunicaciones en un entorno de desarrollo o producción.
 
-Get started by **creating a new site**.
+###  Instalación Docker + GitLab + SSL
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Este manual detalla los pasos necesarios para instalar y configurar Docker junto con GitLab, asegurando que la comunicación entre los usuarios y el servidor se realice de manera segura utilizando SSL (Secure Sockets Layer). La combinación de Docker y GitLab proporciona un entorno robusto para la gestión de proyectos de desarrollo, y la incorporación de SSL garantiza la protección de los datos sensibles durante la transmisión.
 
-### What you'll need
+###  Instalación Linux + Valet
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+En este manual, se proporcionan instrucciones para instalar Valet en un entorno Linux. Valet es una herramienta que simplifica el desarrollo de aplicaciones web al proporcionar un servidor local rápido y fácil de configurar. Con Valet, los desarrolladores pueden concentrarse en la codificación de aplicaciones en lugar de preocuparse por la configuración del servidor web.
 
-## Generate a new site
+### Instalación del Facturador Docker + GitLab + SSL
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Este manual se enfoca en la instalación del facturador, utilizando Docker y GitLab para gestionar el desarrollo y el control de versiones, y SSL para garantizar la seguridad de las comunicaciones. Configurar este entorno específico asegura un sistema de facturación robusto y seguro, crucial para el manejo de datos financieros y la comunicación con clientes y proveedores.

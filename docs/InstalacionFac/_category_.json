@@ -1,0 +1,9 @@
+{
+    "label": "Instalación del Facturador",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Docker + GitLab + SSL"
+    }
+  }
+  

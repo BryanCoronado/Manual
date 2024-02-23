@@ -47,7 +47,7 @@ sidebar_position: 3
      - Si selecciona SÍ, al final del despliegue se le dará un extracto de texto que debe añadir a su configuración de GitLab.
 
     
-     ![Imagen1](https://i.ibb.co/rG3YRGc/Imagen3.png)
+      ![Imagen1](https://i.ibb.co/rG3YRGc/Imagen3.png)
 
 
 
